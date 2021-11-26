@@ -1194,3 +1194,159 @@ git commit -m "filo i/o modfiying"
 git push
 ls
 exit
+cd
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x17-doubly_linked_lists
+cd 0x17-doubly_linked_lists
+vi README.md
+ls
+vi 0-print_dlistint.c
+vi 1-dlistint_len.c
+vi 2-add_dnodeint.c
+vi 3-add_dnodeint_end.c
+git add .
+git commit -m "o - 3 question"
+vi 4-free_dlistint.c
+vi 5-get_dnodeint.c
+vi 6-sum_dlistint.c
+git add .
+git commit -m "4 - 6 question"
+vi 7-insert_dnodeint.c
+vi 8-delete_dnodeint.c
+vi 100-password
+vi 102-result
+vi 103-keygen.c
+git add .
+git commit -m "advanced part"
+ls
+git push
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git branch -M main
+git push -u origin main
+git@github.com:JacobMk63/alx-higher_level_programming.git
+cd ..
+ls
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git branch -M main
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git branch -M main
+git push -u origin main
+ls
+cd
+ls
+cd
+ls
+git add .
+git status
+git add alx-higher_level_programming
+git status
+git commit -m "different files"
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git push -u origin main
+git init
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git push -u origin main
+ls
+cd alx-higher_level_programming
+ls
+git push
+--set-upstream-to=origin main
+--set-upstream
+git push --set-upstream origin main
+ls
+git push
+git push --set-upstream origin master
+git branch -M Master
+git push -u origin Master
+git pull
+cd
+git pull
+git pull origin main
+git branch -M main
+git pull origin main
+git pull origin Master
+git pull
+ls
+rm -rf alx-higher_level_programming
+ls
+git clone git@github.com:JacobMk63/alx-higher_level_programming.git
+cd alx-higher_level_programming
+vi README.md
+git add .
+git push
+git init
+git@github.com:JacobMk63/alx-higher_level_programming.git
+git push git@github.com:JacobMk63/alx-higher_level_programming.git
+cd
+git push
+git push -u origin main
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git branch -M main
+git push -u origin main
+git pull
+git pull origin main
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+ls
+cd alx-higher_level_programming
+ls
+git add .
+git commit -m "readmefile"
+git branch -M main
+git remote add origin git@github.com:JacobMk63/alx-higher_level_programming.git
+git push -u origin main
+ls
+mkdir 0x17-doubly_linked_lists
+cd 0x17-doubly_linked_lists
+vi README.md
+git add .
+git commit "readme file doubly"
+git commit -m "readme file doubly"
+vi 0-print_dlistint.c
+vi 1-dlistint_len.c
+vi 0-print_dlistint.c
+vi 2-add_dnodeint.c
+vi 3-add_dnodeint_end.c
+vi 4-free_dlistint.c
+vi 5-get_dnodeint.c
+git add .
+git commit -m "q0 - q5"
+ls
+vi 6-sum_dlistint.c
+vi 7-insert_dnodeint.c
+vi 8-delete_dnodeint.c
+vi 100-password
+git add .
+git commit -m "q6 - q8"
+vi 102-result
+vi 103-keygen.c
+git add .
+git commit -m "advanced part"
+ls
+git push
+ls
+vi lists.h
+vi palindrome.py
+git add .
+git commit -m "list.h"
+git push
+ls
+vi 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_dlistint.c -o a
+./a
+git add .
+git commit -m "main file"
+git push
+ls
+vi README.md
+cd
+ls
+cd alx-higher_level_programming
+ls
+vi README.MD
+exit
