@@ -1350,3 +1350,50 @@ cd alx-higher_level_programming
 ls
 vi README.MD
 exit
+cd
+ls
+rm -rf alx-higher_level_programming
+ls
+git add .
+git commit -m "remove alx-higher-level"
+git push
+ls
+git push origin main
+ls
+git pull
+ls
+exit
+cd
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x00-python-hello_world
+cd 0x00-python-hello_world
+ls
+vi README.md
+vi 0-run
+vi 1-run_inline
+vi 2-print.py
+vi 3-print_number.py
+vi #!/usr/bin/python3
+ls
+git add .
+git commit -m "readme file"
+vi 4-print_float.py
+vi 5-print_string.py
+vi 6-concat.py
+vi 7-edges.py
+vi 8-concat_edges.py
+vi 9-easter_egg.py
+vi 10-check_cycle.c
+vi lists.h
+git add .
+git commit -m "header file"
+git push
+vi 100-write.py
+vi 101-compile
+vi 102-magic_calculation.py
+git add .
+git commit -m "advanced part"
+git push
+exit

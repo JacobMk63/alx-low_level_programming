@@ -15,21 +15,23 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1637850711,,"x"
+|2,0,1638365611,,"x"
+:q1
+|2,0,1638194035,,"q1"
+:q!
+|2,0,1637993009,,"q!"
+:wq
+|2,0,1637918615,,"wq"
+:q
+|2,0,1637918609,,"q"
+:!q
+|2,0,1637918580,,"!q"
 :X
 |2,0,1637850707,,"X"
-:q!
-|2,0,1633949792,,"q!"
 :!wq
 |2,0,1633949651,,"!wq"
-:wq
-|2,0,1633949643,,"wq"
 :c
 |2,0,1633765776,,"c"
-:!q
-|2,0,1631164883,,"!q"
-:q
-|2,0,1630590147,,"q"
 :p!
 |2,0,1629182909,,"p!"
 
@@ -52,230 +54,716 @@ $
 |3,1,36,0,1,0,1633948451,"}"
 
 # File marks:
-'0  1  0  ~/alx-higher_level_programming/README.MD
-|4,48,1,0,1637850711,"~/alx-higher_level_programming/README.MD"
-'1  1  18  ~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md
-|4,49,1,18,1637850630,"~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md"
-'2  34  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,50,34,0,1637849792,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
-'3  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,51,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
-'4  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,52,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
-'5  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,53,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
-'6  1  5  ~/alx-higher_level_programming/0x17-doubly_linked_lists/102-result
-|4,54,1,5,1637848821,"~/alx-higher_level_programming/0x17-doubly_linked_lists/102-result"
-'7  1  12  ~/alx-higher_level_programming/0x17-doubly_linked_lists/100-password
-|4,55,1,12,1637848712,"~/alx-higher_level_programming/0x17-doubly_linked_lists/100-password"
-'8  40  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,56,40,0,1637848669,"~/alx-higher_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
-'9  48  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
-|4,57,48,0,1637848473,"~/alx-higher_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+'0  1  37  ~/monty/README.md
+|4,48,1,37,1638365611,"~/monty/README.md"
+'1  8  24  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+|4,49,8,24,1638264121,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py"
+'2  7  19  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,50,7,19,1638263972,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+'3  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,51,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+'4  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,52,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+'5  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,53,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+'6  3  17  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
+|4,54,3,17,1638263751,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py"
+'7  3  16  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
+|4,55,3,16,1638263703,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py"
+'8  8  26  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
+|4,56,8,26,1638263666,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py"
+'9  7  12  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py
+|4,57,7,12,1638263574,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py"
 
 # Jumplist (newest first):
--'  1  0  ~/alx-higher_level_programming/README.MD
-|4,39,1,0,1637850711,"~/alx-higher_level_programming/README.MD"
--'  1  18  ~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md
-|4,39,1,18,1637850630,"~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md"
--'  1  18  ~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md
-|4,39,1,18,1637850630,"~/alx-higher_level_programming/0x17-doubly_linked_lists/README.md"
--'  34  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,34,0,1637849792,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  34  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,34,0,1637849792,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  34  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,34,0,1637849792,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  34  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,34,0,1637849792,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,1,0,1637849776,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,1,0,1637849776,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,1,0,1637849776,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c
-|4,39,1,0,1637849776,"~/alx-higher_level_programming/0x17-doubly_linked_lists/0-main.c"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1637849495,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1637849475,"~/alx-higher_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  32  21  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,32,21,1637849443,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1637849419,"~/alx-higher_level_programming/0x17-doubly_linked_lists/lists.h"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  45  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1637848867,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1637848836,"~/alx-higher_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  37  ~/monty/README.md
+|4,39,1,37,1638365611,"~/monty/README.md"
+-'  8  24  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+|4,39,8,24,1638264121,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py"
+-'  8  24  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+|4,39,8,24,1638264121,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+|4,39,1,0,1638264091,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+|4,39,1,0,1638264091,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py"
+-'  7  19  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,7,19,1638263972,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  7  19  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,7,19,1638263972,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  7  19  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,7,19,1638263972,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  7  19  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,7,19,1638263972,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,1,0,1638263950,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,1,0,1638263950,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,1,0,1638263950,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+|4,39,1,0,1638263950,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  3  76  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,3,76,1638263932,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+|4,39,1,0,1638263912,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  70  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,70,0,1638263841,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+|4,39,1,0,1638263818,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  10  21  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,10,21,1638263790,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
+-'  1  0  ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+|4,39,1,0,1638263769,"~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/monty/README.md
+	*	1638365607	0
+	"	1	37
+	^	1	38
+	.	1	38
+	+	1	38
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+	*	1638264115	0
+	"	8	24
+	^	8	25
+	.	8	24
+	+	8	24
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+	*	1638263971	0
+	"	7	19
+	^	7	20
+	.	7	19
+	+	7	19
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+	*	1638263930	0
+	"	3	76
+	^	3	77
+	.	3	76
+	+	3	76
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+	*	1638263839	0
+	"	70	0
+	^	70	0
+	.	69	11
+	+	1	18
+	+	2	19
+	+	3	18
+	+	4	0
+	+	5	41
+	+	6	69
+	+	7	0
+	+	8	3
+	+	9	38
+	+	10	19
+	+	11	54
+	+	12	49
+	+	13	2
+	+	14	50
+	+	15	8
+	+	16	2
+	+	17	3
+	+	18	0
+	+	19	52
+	+	20	1
+	+	21	25
+	+	22	27
+	+	23	10
+	+	24	0
+	+	25	31
+	+	26	53
+	+	27	18
+	+	28	1
+	+	29	0
+	+	30	3
+	+	31	50
+	+	32	19
+	+	33	54
+	+	34	49
+	+	35	41
+	+	36	2
+	+	37	50
+	+	38	8
+	+	39	2
+	+	40	3
+	+	41	0
+	+	42	68
+	+	43	1
+	+	44	29
+	+	45	28
+	+	46	21
+	+	47	25
+	+	48	12
+	+	49	0
+	+	50	19
+	+	51	18
+	+	52	38
+	+	53	22
+	+	54	18
+	+	55	17
+	+	56	15
+	+	57	5
+	+	58	31
+	+	59	25
+	+	60	5
+	+	61	6
+	+	62	5
+	+	63	22
+	+	64	2
+	+	65	28
+	+	66	6
+	+	67	21
+	+	68	29
+	+	69	11
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+	*	1638263787	0
+	"	10	21
+	^	10	22
+	.	10	21
+	+	10	21
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
+	*	1638263750	0
+	"	3	17
+	^	3	18
+	.	3	17
+	+	3	17
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
+	*	1638263701	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	3	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
+	*	1638263663	0
+	"	8	26
+	^	8	27
+	.	8	26
+	+	8	26
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py
+	*	1638263571	0
+	"	7	12
+	^	7	13
+	.	7	12
+	+	7	12
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/7-islower.py
+	*	1638263508	0
+	"	3	41
+	^	3	42
+	.	3	41
+	+	3	41
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/6-print_comb3.py
+	*	1638263463	0
+	"	5	33
+	^	5	34
+	.	5	33
+	+	5	33
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/5-print_comb2.py
+	*	1638263414	0
+	"	4	28
+	^	4	29
+	.	4	28
+	+	4	28
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/4-print_hexa.py
+	*	1638263365	0
+	"	3	38
+	^	3	39
+	.	3	38
+	+	3	38
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/3-print_alphabt.py
+	*	1638263315	0
+	"	4	38
+	^	4	39
+	.	4	38
+	+	4	38
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/2-print_alphabet.py
+	*	1638263057	0
+	"	3	34
+	^	3	35
+	.	3	34
+	+	3	34
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/1-last_digit.py
+	*	1638263018	0
+	"	14	40
+	^	14	41
+	.	14	40
+	+	14	40
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/lists.h
+	*	1638262872	0
+	"	24	19
+	^	24	20
+	.	24	19
+	+	24	19
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/0-positive_or_negative.py
+	*	1638262799	0
+	"	9	31
+	^	9	32
+	.	10	0
+	+	9	52
+	+	10	0
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/README.md
+	*	1638262514	0
+	"	1	39
+	^	1	40
+	.	1	39
+	+	1	39
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+	*	1638195152	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+	*	1638194896	0
+	"	3	27
+	^	3	28
+	.	3	27
+	+	1	11
+	+	2	16
+	+	3	27
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/main.h
+	*	1638194117	0
+	"	25	22
+	^	25	23
+	.	25	22
+	+	25	22
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
+	*	1638194027	0
+	"	1	0
+	^	1	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/README.md
+	*	1638193388	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
+	*	1637994248	0
+	"	3	24
+	^	3	25
+	.	3	24
+	+	3	24
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/101-compile
+	*	1637994213	0
+	"	5	16
+	^	5	17
+	.	5	16
+	+	5	16
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
+	*	1637993925	0
+	"	4	6
+	^	4	7
+	.	4	6
+	+	4	6
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
+	*	1637993696	0
+	"	25	19
+	^	25	20
+	.	25	19
+	+	25	19
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c
+	*	1637993660	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+	*	1637993596	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+	*	1637993535	0
+	"	5	9
+	^	5	10
+	.	5	9
+	+	5	9
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+	*	1637993371	0
+	"	8	42
+	^	8	43
+	.	8	42
+	+	8	42
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+	*	1637993258	0
+	"	5	35
+	^	5	36
+	.	5	35
+	+	5	35
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+	*	1637993204	0
+	"	4	13
+	^	4	14
+	.	4	13
+	+	4	13
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
+	*	1637993135	0
+	"	3	36
+	^	3	37
+	.	3	36
+	+	3	36
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
+	*	1637992974	0
+	"	3	42
+	^	3	43
+	.	3	42
+	+	3	42
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
+	*	1637992915	0
+	"	2	60
+	^	2	61
+	.	2	60
+	+	2	60
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
+	*	1637992865	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/0-run
+	*	1637992673	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	11
+	+	2	14
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/README.md
+	*	1637992629	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+	*	1637918787	0
+	"	66	0
+	^	66	1
+	.	66	0
+	+	66	0
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+	*	1637918735	0
+	"	9	17
+	^	9	18
+	.	9	17
+	+	9	17
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+	*	1637918675	0
+	"	3	76
+	^	3	77
+	.	3	76
+	+	3	76
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+	*	1637918520	0
+	"	10	11
+	^	10	12
+	.	10	11
+	+	10	11
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
+	*	1637918407	0
+	"	16	15
+	^	16	16
+	.	16	15
+	+	16	15
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+	*	1637918360	0
+	"	3	52
+	^	3	53
+	.	3	52
+	+	3	52
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py
+	*	1637918309	0
+	"	9	14
+	^	9	15
+	.	9	14
+	+	9	14
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py
+	*	1637918255	0
+	"	3	60
+	^	3	61
+	.	3	60
+	+	3	60
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py
+	*	1637918187	0
+	"	5	17
+	^	5	18
+	.	5	17
+	+	5	17
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
+	*	1637918137	0
+	"	4	17
+	^	4	18
+	.	4	17
+	+	4	17
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/6-print_sorted_dictionary.py
+	*	1637917904	0
+	"	4	50
+	^	4	51
+	.	4	50
+	+	4	50
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/5-number_keys.py
+	*	1637917793	0
+	"	3	22
+	^	3	23
+	.	3	22
+	+	1	18
+	+	2	25
+	+	3	22
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/3-common_elements.py
+	*	1637917744	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	1	55
+	+	3	23
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/4-only_diff_elements.py
+	*	1637917682	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	3	23
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/1-search_replace.py
+	*	1637917037	0
+	"	5	37
+	^	5	38
+	.	5	37
+	+	5	37
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/2-uniq_add.py
+	*	1637916968	0
+	"	6	13
+	^	6	14
+	.	6	13
+	+	6	13
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
+	*	1637916797	0
+	"	3	63
+	^	3	64
+	.	3	63
+	+	3	63
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/README.md
+	*	1637916726	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
 
 > ~/alx-higher_level_programming/README.MD
 	*	1637850707	0
@@ -456,20 +944,6 @@ $
 	+	2	17
 	+	1	27
 
-> ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-	*	1637156734	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-	*	1637149720	0
-	"	1	28
-	^	1	29
-	.	1	28
-	+	1	28
-
 > ~/0x15-file_io/holberton.h
 	*	1634633750	0
 	"	11	25
@@ -648,596 +1122,3 @@ $
 	^	26	1
 	.	26	0
 	+	26	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/1-main.c
-	*	1634021966	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/0-main.c
-	*	1634021882	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/103-find_loop.c
-	*	1634021795	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/102-free_listint_safe.c
-	*	1634021755	0
-	"	65	0
-	^	65	1
-	.	65	0
-	+	65	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/101-print_listint_safe.c
-	*	1634021709	0
-	"	61	0
-	^	61	1
-	.	61	0
-	+	61	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/100-reverse_listint.c
-	*	1634021649	0
-	"	27	0
-	^	27	1
-	.	27	0
-	+	27	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/10-delete_nodeint.c
-	*	1634021600	0
-	"	37	0
-	^	37	1
-	.	37	0
-	+	1	18
-	+	2	19
-	+	3	0
-	+	4	3
-	+	5	60
-	+	6	30
-	+	7	54
-	+	8	38
-	+	9	2
-	+	10	38
-	+	11	3
-	+	12	65
-	+	13	1
-	+	14	16
-	+	15	27
-	+	16	0
-	+	17	35
-	+	18	14
-	+	19	16
-	+	20	2
-	+	21	23
-	+	22	14
-	+	23	15
-	+	24	13
-	+	25	2
-	+	26	17
-	+	27	32
-	+	28	2
-	+	29	28
-	+	30	15
-	+	31	26
-	+	32	2
-	+	33	22
-	+	34	28
-	+	35	12
-	+	36	12
-	+	37	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/9-insert_nodeint.c
-	*	1634021535	0
-	"	42	0
-	^	42	1
-	.	42	0
-	+	42	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/8-sum_listint.c
-	*	1634021459	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/7-get_nodeint.c
-	*	1634021107	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/lists.h
-	*	1634020984	0
-	"	35	21
-	^	35	22
-	.	35	21
-	+	35	21
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/6-pop_listint.c
-	*	1633949863	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/5-free_listint2.c
-	*	1633949816	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/4-free_listint.c
-	*	1633949486	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/3-add_nodeint_end.c
-	*	1633948503	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
-	*	1633948409	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/0-print_listint.c
-	*	1633948370	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	21	0
-
-> ~/alx-low_level_programming/0x13-more_singly_linked_lists/README.md
-	*	1633948207	0
-	"	1	37
-	^	1	38
-	.	1	37
-	+	1	37
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
-	*	1633765930	0
-	"	1	32
-	^	1	33
-	.	1	32
-	+	1	32
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas
-	*	1633765786	0
-	"	1	0
-	^	1	0
-	.	2	0
-	+	2	0
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree
-	*	1633765734	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
-	*	1633765593	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
-	*	1633765521	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	2	21
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html
-	*	1633765429	0
-	"	2	15
-	^	2	16
-	.	2	15
-	+	2	15
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
-	*	1633765334	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/12-file_type
-	*	1633765262	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists
-	*	1633765020	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion
-	*	1633764930	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
-	*	1633764558	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/printf/modifiers.c
-	*	1633615777	0
-	"	90	0
-	^	4	3
-	.	3	41
-	+	89	1
-	+	3	41
-
-> ~/printf/handlers.c
-	*	1633615326	0
-	"	4	22
-	^	4	23
-	.	4	22
-	+	203	1
-	+	204	0
-	+	3	23
-	+	4	22
-
-> ~/printf/convert_numbers.c
-	*	1633613700	0
-	"	4	22
-	^	4	23
-	.	5	0
-	+	184	1
-	+	3	22
-	+	5	0
-
-> ~/printf/convert_c_percent_p.c
-	*	1633612917	0
-	"	4	1
-	^	4	2
-	.	4	2
-	+	106	1
-	+	4	2
-
-> ~/printf/_printf.c
-	*	1633612072	0
-	"	97	0
-	^	97	0
-	.	96	1
-	+	1	2
-	+	1	1950
-	+	1	42
-	+	1	65
-	+	1	630
-	+	1	0
-	+	1	18
-	+	96	1
-	+	3	22
-	+	4	22
-	+	96	1
-
-> ~/printf/man_3_printf
-	*	1633611905	0
-	"	31	0
-	^	31	0
-	.	30	30
-	+	1	50
-	+	2	8
-	+	2	18
-	+	2	48
-	+	2	60
-	+	2	85
-	+	2	112
-	+	2	121
-	+	2	130
-	+	2	145
-	+	2	157
-	+	2	205
-	+	2	214
-	+	2	286
-	+	2	302
-	+	2	435
-	+	2	499
-	+	2	530
-	+	2	896
-	+	2	1019
-	+	2	1047
-	+	2	1161
-	+	2	1164
-	+	2	1169
-	+	2	1259
-	+	2	1262
-	+	2	1266
-	+	2	1486
-	+	2	1489
-	+	2	1493
-	+	2	1610
-	+	2	1613
-	+	2	1620
-	+	2	1677
-	+	2	1680
-	+	2	1687
-	+	2	1819
-	+	2	1822
-	+	2	1826
-	+	2	1893
-	+	2	1896
-	+	2	1903
-	+	2	1994
-	+	2	1997
-	+	2	2001
-	+	2	2035
-	+	2	2038
-	+	2	2042
-	+	2	2069
-	+	2	2072
-	+	2	2076
-	+	2	2110
-	+	2	2113
-	+	2	2117
-	+	2	2206
-	+	2	2217
-	+	2	2325
-	+	2	2347
-	+	2	2402
-	+	2	2414
-	+	2	2426
-	+	2	2434
-	+	2	2448
-	+	2	2470
-	+	29	10
-	+	30	13
-	+	1	11
-	+	2	75
-	+	2	2337
-	+	30	2
-	+	2	326
-	+	30	30
-	+	2	313
-	+	27	8
-	+	30	30
-
-> ~/printf/main.h
-	*	1633611358	0
-	"	116	23
-	^	116	24
-	.	116	23
-	+	1	21
-	+	1	42
-	+	1	61
-	+	1	139
-	+	1	193
-	+	1	213
-	+	1	237
-	+	1	240
-	+	1	260
-	+	1	261
-	+	1	270
-	+	1	289
-	+	1	299
-	+	1	320
-	+	1	357
-	+	1	380
-	+	1	403
-	+	1	426
-	+	1	449
-	+	1	472
-	+	1	495
-	+	1	518
-	+	1	541
-	+	1	564
-	+	1	587
-	+	1	610
-	+	1	633
-	+	1	656
-	+	1	682
-	+	1	14
-	+	1	656
-	+	1	60
-	+	1	21
-	+	1	60
-	+	1	136
-	+	1	1072
-	+	1	682
-	+	116	23
-
-> ~/printf/test_files/main.c
-	*	1633607424	0
-	"	44	0
-	^	44	1
-	.	44	0
-	+	44	0
-
-> ~/printf/print_char.c
-	*	1633607338	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
-
-> ~/printf/print_base.c
-	*	1633607258	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	157	0
-	+	1	0
-
-> ~/printf/more_functions.c
-	*	1633607089	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	21	0
-
-> ~/printf/converter.c
-	*	1633606999	0
-	"	56	0
-	^	56	1
-	.	56	0
-	+	56	0
-
-> ~/printf/.git/MERGE_MSG
-	*	1633604162	0
-	"	1	0
-	^	1	52
-	.	2	0
-	+	2	0
-
-> ~/printf/print_specifiers.c
-	*	1633604064	0
-	"	1	0
-	^	1	1
-	.	138	0
-	+	138	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/100-main.c
-	*	1633599375	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
-	*	1633599303	0
-	"	12	28
-	^	12	29
-	.	12	28
-	+	12	28
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/100-first.c
-	*	1633599223	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/3-main.c
-	*	1633598875	0
-	"	46	0
-	^	46	1
-	.	46	0
-	+	46	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/2-main.c
-	*	1633598785	0
-	"	46	0
-	^	46	1
-	.	46	0
-	+	46	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/1-main.c
-	*	1633598694	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/0-main.c
-	*	1633598608	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
-	*	1633598560	0
-	"	29	21
-	^	29	22
-	.	29	21
-	+	1	17
-	+	2	17
-	+	3	0
-	+	4	19
-	+	5	0
-	+	6	3
-	+	7	37
-	+	8	36
-	+	9	29
-	+	10	33
-	+	11	2
-	+	12	49
-	+	13	24
-	+	14	3
-	+	15	21
-	+	16	1
-	+	17	11
-	+	18	18
-	+	19	21
-	+	20	9
-	+	21	0
-	+	22	19
-	+	23	35
-	+	24	33
-	+	25	49
-	+	26	53
-	+	27	29
-	+	28	0
-	+	29	21
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
-	*	1633598465	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-	*	1633598414	0
-	"	54	0
-	^	54	1
-	.	54	0
-	+	54	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-	*	1633598349	0
-	"	46	0
-	^	46	1
-	.	46	0
-	+	46	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-	*	1633598299	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-	*	1633598235	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/README.md
-	*	1633598184	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	0
-	+	1	1
